@@ -9,3 +9,7 @@
 - [Lucene Core](https://github.com/fonxian/lucene-core-code-read)
 - Redis
 - JDK
+
+## 博客笔记
+
+- [学习&开发问题汇总](https://github.com/fonxian/dev-problem)
