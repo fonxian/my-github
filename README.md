@@ -4,6 +4,10 @@
 
 - [简单的搜索引擎](https://github.com/fonxian/surfbird-search)
 
+## 脚手架项目
+
+- [SpringBoot轻松整合ElasticSearch](https://github.com/fonxian/spring-elasticsearch-example)
+
 ## 源码阅读
 
 - [Lucene Core](https://github.com/fonxian/lucene-core-code-read)
