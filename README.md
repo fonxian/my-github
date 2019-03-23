@@ -4,7 +4,8 @@
 
 - [基于Lucene的简单搜索引擎](https://github.com/fonxian/surfbird-search)
 - [基于Solr、ES的商品搜索系统](https://github.com/fonxian/shop-search)
-- 基于Spark的排名统计系统
+- 基于Spark的用户画像系统
+- 基于Hadoop的排名统计系统
 
 ## 脚手架项目
 
